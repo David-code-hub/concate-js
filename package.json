@@ -1,0 +1,16 @@
+{
+    "name": "concate-js",
+    "author": "DavidCodeHub",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Library for concatenating strings - ideal for partially hiding emails, phone numbers, tokens etc",
+
+   "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+
+    "devDependencies": {
+        "vite": "^4.4.5"
+    } 
+  }
